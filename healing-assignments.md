@@ -14,7 +14,7 @@
 - Weaknesses: More variable performance on early bosses
 
 **Strezz**
-- Note: Above average parses reported but specific data not available
+- Note: Limited data available
 - Role Recommendation: Flexible tank/raid healing
 
 ### Restoration Shamans
@@ -52,8 +52,8 @@ Main Tank (Caspus):
 - Ahintokos (HoTs)
 
 Off Tank (Sabot):
-- Solvyn (Primary + Dispels)
-- Strezz (Support + Dispels)
+- Strezz (Primary + Dispels)
+- Solvyn (Support + Dispels)
 
 Raid Groups:
 Group 1/2: Foldedmango + Skylinez
@@ -65,16 +65,16 @@ Group 3/4: Deathisper + Dugrisarg
 ```
 Main Tank:
 - Alyssaabethh (Primary)
-- Ahintokos (HoTs)
+- Solvyn (Support)
 
 Off Tank:
-- Solvyn
 - Strezz
+- Ahintokos (HoTs)
 
 Raid Groups:
 Melee: Foldedmango + Skylinez
 Ranged 1: Shyamalan + Deathisper
-Ranged 2: Dugrisarg + Diktusk
+Ranged 2: Dugrisarg
 ```
 
 ### 3. Gehennas
@@ -82,7 +82,7 @@ Ranged 2: Dugrisarg + Diktusk
 ```
 Main Tank:
 - Alyssaabethh (Primary)
-- Solvyn (Dispels)
+- Solvyn (Primary + Dispels)
 
 Off Tank:
 - Strezz
@@ -104,10 +104,10 @@ Main Tank:
 Add Tanks:
 - Solvyn
 - Strezz
-- Foldedmango
+- Skylinez
 
 Raid Groups:
-Group 1: Skylinez
+Group 1: Shyamalan
 Group 2: Deathisper
 Group 3: Dugrisarg
 ```
@@ -117,15 +117,15 @@ Group 3: Dugrisarg
 ```
 Position A:
 - Alyssaabethh
-- Foldedmango
-
-Position B:
-- Solvyn
 - Skylinez
 
-Position C:
+Position B:
 - Strezz
+- Foldedmango
+
+Position C:
 - Shyamalan
+- Deathisper
 
 Flex:
 - Ahintokos
@@ -139,8 +139,8 @@ Main Tank:
 - Solvyn
 
 Bomb Healing:
-- Foldedmango
 - Skylinez
+- Foldedmango
 
 Raid:
 - Strezz
@@ -152,7 +152,7 @@ Raid:
 ```
 Main Tank:
 - Alyssaabethh
-- Strezz
+- Shyamalan
 
 Add Tanks:
 - Solvyn
@@ -160,7 +160,7 @@ Add Tanks:
 - Skylinez
 
 Raid:
-- Shyamalan
+- Strezz
 - Deathisper
 - Ahintokos
 ```
@@ -177,8 +177,8 @@ Off Tank:
 - Ahintokos
 
 Raid:
-Melee: Foldedmango
-Ranged 1: Skylinez
+Melee: Skylinez
+Ranged 1: Foldedmango
 Ranged 2: Shyamalan
 ```
 
@@ -187,17 +187,17 @@ Ranged 2: Shyamalan
 ```
 Main Tank:
 - Alyssaabethh
-- Ahintokos
+- Strezz
 
 Sheep Tanks:
 - Solvyn
-- Strezz
+- Skylinez
 - Foldedmango
 
 Raid:
-Group 1: Skylinez
-Group 2: Shyamalan
-Group 3: Deathisper
+Group 1: Shyamalan
+Group 2: Deathisper
+Group 3: Ahintokos
 ```
 
 ### 10. Ragnaros
@@ -210,8 +210,8 @@ Main Tank:
 - Strezz
 
 Melee Groups:
-- Foldedmango
 - Skylinez
+- Foldedmango
 - Shyamalan
 
 Ranged Groups:
@@ -230,3 +230,13 @@ Split between melee and ranged positions
 3. Keep strong Chain Healers (Foldedmango, Skylinez) with melee groups
 4. Adjust Ahintokos's responsibilities based on performance
 5. Always maintain at least 2 healers per position for Shazzrah
+
+## Updated General Notes
+1. Alyssaabethh remains primary MT healer - consistently highest parsing healer
+2. Skylinez and Foldedmango should focus on group healing where Chain Heal is most effective
+3. Solvyn removed from some Shazzrah healing due to lower performance there
+4. Adjusted Garr healing to account for Foldedmango's lower performance on that fight
+5. Kept Strezz in flexible roles where their consistent performance is valuable
+6. Positioned Deathisper and Dugrisarg in more supported roles
+7. Maintained Ahintokos in HoT-focused assignments until performance data available
+8. Added Shyamalan to more focused single-target healing assignments where they perform better
